@@ -1,0 +1,3 @@
+{"objects":[{"_i":203752048,"_t":"IfcPropertySingleValue","_s":1,"Name":"Reference","_eNominalValue":{"_t":"IfcIdentifier","_v":"住宅屋面构造 - 100mm"}}
+,{"_i":254607984,"_t":"IfcPropertySingleValue","_s":1,"Name":"PitchAngle","_eNominalValue":{"_t":"IfcPlaneAngleMeasure","_v":1.70000000000007}}
+]}

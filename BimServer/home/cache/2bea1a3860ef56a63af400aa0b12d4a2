@@ -1,0 +1,3 @@
+{"objects":[{"_i":390660751,"_t":"IfcRelDefinesByProperties","_s":1,"GlobalId":"3M2uXOumTB8PC4l8hL4hv9","_rOwnerHistory":24183349,"_rRelatedObjects":[129565402],"_rRelatingPropertyDefinition":489423261}
+,{"_i":130613658,"_t":"IfcRelDefinesByType","_s":1,"GlobalId":"1FSKq8tenC8vPI_JxF9UxV","_rOwnerHistory":24183349,"_rRelatedObjects":[129565402],"_rRelatingType":64684815}
+]}

@@ -1,0 +1,5 @@
+{"objects":[{"_i":197232,"_t":"IfcPropertySingleValue","_s":1,"Name":"ExtendToStructure","_eNominalValue":{"_t":"IfcBoolean","_v":false}}
+,{"_i":262768,"_t":"IfcPropertySingleValue","_s":1,"Name":"IsExternal","_eNominalValue":{"_t":"IfcBoolean","_v":true}}
+,{"_i":1049200,"_t":"IfcPropertySingleValue","_s":1,"Name":"Reference","_eNominalValue":{"_t":"IfcIdentifier","_v":"住宅内墙- 200mm"}}
+,{"_i":58196592,"_t":"IfcPropertySingleValue","_s":1,"Name":"ThermalTransmittance","_eNominalValue":{"_t":"IfcThermalTransmittanceMeasure","_v":2.7}}
+]}
